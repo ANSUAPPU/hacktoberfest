@@ -1,4 +1,3 @@
-
 <p align="center">
   <img src="assets/logo.png" />
   <img src="assets/cover1.png" width="500px" height="500px"/>
@@ -21,10 +20,10 @@
 - Others contribute to [Contribution](/contribution) folder
 
 ## :rotating_light: Warning
-- Request only genuine PR's as given in the Instruction
-- Genuine PR's will be merged to the repo and you will be added as a [Contributor](https://iodevelopers.github.io/hacktoberfest/contributors.html) in the site
-- Spam PR's requested will not be counted by the Hacktoberfest and will not be merged to repo
-- Follow the Instructions strictly
+- **Add genuine Pull Request as given in the Instruction**
+- **Genuine PR's will be merged to the repo and you will be added as a [Contributor](https://iodevelopers.github.io/hacktoberfest/contributors.html) in the site**
+- **Spam PR's requested will not be counted by the Hacktoberfest and will not be merged to repo**
+- **Follow the Instructions strictly**
 
 ## :computer: Getting Started
 
@@ -55,27 +54,3 @@ git push origin my-new-branch
 ```
 
 - Create a new pull request from your forked repository
-
-## :zap: FAQs
-- What is Hacktoberfest?
-  - Hacktoberfest is a month-long celebration of open source software run by DigitalOcean in partnership with GitHub and Twilio.
-- Who can contribute?
-  - Anyone with a github account and signed up for [Hacktoberfest](https://hacktoberfest.digitalocean.com/)
-- Who are you and why are you doing this?
-  - We are a team of students [IODevelopers](https://github.com/IODevelopers). We are doing this because we love open
-  source and Hacktoberfest. We want to make it easier for people to get started with Hacktoberfest and Open source.
-- How do I track my progress?
-  - Log in with your GitHub account at [Hacktoberfest](https://hacktoberfest.digitalocean.com/) to check your progress and stats.
-- I completed 5 PRs. When will I receive my t-shirt?
-  - We will start sending out emails with more details on redeeming t-shirts throughout the month. Stay tuned!
-- How do I get stickers?
-  - Stickers are included with your t-shirt, once you complete 5 PRs.
-- What happens if I complete fewer than 5 PRs by the end of the month?
-  - Unfortunately you will have to submit at least 5 PRs in order to get a T-shirt.
-  
-## :globe_with_meridians: [Organisation](https://www.iodev.co.in/)
-  <p align="center">
-    <img src="assets/iodev.png" width="300px"/>
-  </p>
-
-
